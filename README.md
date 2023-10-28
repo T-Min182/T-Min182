@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do minottotiago 🎃
 
  <div>
-   <a href="https://github.com/T-Min182">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T-Min182&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Min182&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/minottotiago">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minottotiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minottotiago&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
