@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do minottotiago 🎃
+## Bem-vindo(a) ao perfil do tiagominotto 🎃
 
  <div>
-   <a href="https://github.com/minottotiago">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minottotiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minottotiago&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/tiagominotto">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagominotto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagominotto&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
